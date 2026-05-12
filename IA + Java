@@ -1,0 +1,82 @@
+1. [Machine Learning, LLMs, IA Generativa e Agentes](#machine-learning-llms-ias-generativas-agentes)
+
+# Machine Learning, LLMs, IA Generativa e Agentes <a name="machine-learning-llms-ias-generativas-agentes"></a>
+## O impacto da Inteligência Artificial
+
+O impacto da Inteligência Artificial (IA) e da criação de agentes autônomos está gerando uma produção massiva e acelerada de dados.
+
+## Origem da Inteligência Artificial
+
+- Alan Turing iniciou essa discussão através do conceito conhecido como **“Jogo da Imitação”**, prevendo que, no futuro, pessoas poderiam confundir máquinas com seres humanos.
+    
+- John McCarthy avançou nesse tema ao introduzir conceitos fundamentais da Inteligência Artificial e sistemas baseados em perguntas e respostas previamente definidas.
+    
+- Em 1966, Joseph Weizenbaum criou o primeiro chatbot do mundo, chamado **ELIZA**. O sistema utilizava processamento de linguagem natural e um mecanismo semelhante a autocomplete, substituindo palavras com base em padrões probabilísticos. O ELIZA também possuía uma capacidade limitada de aprendizado, criando seu próprio dicionário de interações. Esse conceito foi um dos marcos iniciais do aprendizado de máquina (_Machine Learning_).
+    
+- Posteriormente, surgiu o **PARRY**, treinado para simular o comportamento de um paciente com paranoia durante consultas terapêuticas. Esse avanço contribuiu para a evolução dos Modelos de Linguagem.
+    
+- Em 2010, a IBM lançou o **Watson**, um sistema desenvolvido com foco em processamento de linguagem natural e análise inteligente de informações.
+    
+- **PLN (Processamento de Linguagem Natural)** é a área da Inteligência Artificial responsável pela comunicação entre humanos e máquinas através da linguagem.
+    
+- Em 2018, a OpenAI iniciou uma nova fase da IA generativa com projetos voltados à democratização e acessibilidade da Inteligência Artificial, culminando posteriormente no lançamento do **ChatGPT**.
+
+## Como uma IA é treinada e o que são LLMs
+
+- Para que uma IA funcione, é necessário fornecer contexto e exemplos. Ela aprende identificando padrões através de parâmetros matemáticos representados em forma de tokens.
+
+Por exemplo, no contexto de uma maçã, a IA pode associar características como:
+
+-  # quase-esférico
+    
+-  # tons-de-vermelho
+    
+-  # fenda-superior
+    
+-  # caule-na-parte-superior
+    
+- Para melhorar o reconhecimento, o modelo passa por um processo de treinamento com reforço positivo e negativo, semelhante a um sistema de “likes” e “dislikes”. Dessa forma, ele ajusta seus parâmetros e aprende novos padrões.
+- Quando a IA recebe algo que foge minimamente do padrão aprendido, ela pode ter dificuldade para identificar corretamente. Com novos exemplos e reforços durante o treinamento, ela aprende a lidar melhor com essas variações.
+- LLM (_Large Language Model_) é um modelo de linguagem com grande volume de dados e vocabulário amplo, capaz de atuar em um ou vários temas.
+- SLM (_Small Language Model_) é um modelo menor, mais leve e especializado, treinado para necessidades mais específicas.
+- Modelos _Open Source_ são modelos já treinados e disponibilizados publicamente, permitindo uso, estudo e até personalização por desenvolvedores e empresas.
+
+## Deep Learning
+
+O _Deep Learning_ (aprendizado profundo) funciona de forma inspirada nas conexões neurais do cérebro humano. Essas conexões são criadas a partir de experiências e padrões observados ao longo do tempo, não apenas por regras declaradas diretamente.
+
+Em vez de receber todas as respostas prontas, o modelo aprende através de inferências e reconhecimento de padrões.
+
+Inferência é o processo de raciocínio no qual se chega a uma conclusão a partir de informações, premissas ou observações consideradas verdadeiras. Ou seja, é a capacidade de deduzir algo novo com base no conhecimento já existente.
+
+No contexto da inteligência artificial, isso acontece por meio de redes neurais artificiais, estruturas matemáticas inspiradas no funcionamento dos neurônios humanos.
+
+As IAs atuais utilizam múltiplos modelos e arquiteturas trabalhando em conjunto, e foi justamente a evolução do _Deep Learning_ que tornou possível o avanço desses sistemas, permitindo que compreendam linguagem, imagens, áudio e diversos outros tipos de dados com alta complexidade.
+
+## IAs Generativas
+Algo generativo é capaz de criar algo novo, em vez de apenas reconhecer ou classificar informações.
+
+Atualmente, as inteligências artificiais trabalham de forma multimodal e com múltiplos modelos especializados. Por exemplo:
+
+- um modelo pode reconhecer imagens;
+- outro pode interpretar áudio;
+- outro pode processar vídeos;
+- e outro pode compreender linguagem natural.
+
+Além de interpretar diferentes tipos de dados, as IAs modernas também conseguem gerar novos conteúdos, como textos, imagens, músicas, códigos, vídeos e vozes sintéticas.
+
+A partir dessa evolução, surgiram novos conceitos, como:
+
+- **Vibe Coding**: desenvolvimento de software com apoio da IA;
+- **Vibe Writing**: escrita de livros, artigos e conteúdos com auxílio de inteligência artificial.
+
+Hoje, a IA atingiu um nível tão avançado que, em muitos casos, está cada vez mais difícil diferenciar conteúdos reais de conteúdos gerados artificialmente, aumentando os desafios relacionados a fake news, manipulação de mídia e desinformação.
+
+Esse avanço também está criando novas profissões e áreas de especialização que praticamente não existiam antes, como:
+
+- **Prompt Engineer** (Engenheiro de Prompt);
+- especialistas em recuperação e análise de áudio e vídeo;
+- profissionais de Cibersegurança com foco em IA;
+- especialistas em detecção e validação de conteúdos gerados artificialmente.
+
+Com isso, a inteligência artificial deixa de ser apenas uma ferramenta de automação e passa a se tornar uma tecnologia capaz de colaborar criativamente com seres humanos em diversas áreas.
